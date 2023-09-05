@@ -20,7 +20,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/makeup?Makeup",
+      "/sexyshop?Sexy Shop",
+      "/lingeries?Lingeries",
+      "/bolsas?Bolsas"
+    ],
     "random": 6,
     "full_width": false
   },
